@@ -1,0 +1,29 @@
+:root {
+    -MAINCOLOR: #00b5cc;
+}
+
+
+body {
+    font-family:"Open Sans", sans-serif;
+}
+
+.nav-search {
+    margin-left: 100px;
+}
+
+.nav-location {
+    margin-right: 100px;
+}
+
+.top-nav-icon {
+    object-fit: contain;
+}
+
+.search-icon {
+    margin-left: -35px;
+    margin-top: 5px;
+}
+
+.nav-account {
+    margin-right: 100px;
+}
