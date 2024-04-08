@@ -1,5 +1,5 @@
 :root {
-    -MAINCOLOR: #00b5cc;
+    --MAINCOLOR: #00b5cc;
 }
 
 
@@ -321,3 +321,14 @@ ul.icon-des li {
 
 /* mega navbar end */
 
+/* products start */
+
+.product {
+    cursor: pointer;
+}
+
+.product:hover p{
+    color: var(--MAINCOLOR);
+}
+
+/* products end */
